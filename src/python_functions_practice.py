@@ -1,2 +1,3 @@
 def return_10():
-    pass
+    return 10
+
